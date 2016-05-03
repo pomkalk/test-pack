@@ -1,0 +1,14 @@
+{
+    "name": "pomkalk/test",
+    "description": "test class",
+    "authors": [
+        {
+            "name": "pomkalk",
+            "email": "pomkalk@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    	"psr-4":{"Pomkalk\\":"src/"}
+    }
+}
